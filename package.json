@@ -1,9 +1,16 @@
 {
     "name": "@name/name",
+    "private": true,
+    "description": "",
+    "author": "Mohammad Amanalikhani <md.akhi.ir@gmail.com>",
     "version": "0.0.1",
+    "license": "",
+    "keywords": [
+      ""
+    ],
     "scripts": {
         "build": "",
-        "start": "",
+        "start": "cd ./client && npm run develop",
         "test": ""
     },
     "devDependencies": {
