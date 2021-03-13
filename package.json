@@ -1,9 +1,17 @@
 {
-    "name": "@name/name",
+    "name": "@Harmony-js/Harmony-js",
+    "private": true,
+    "description": "",
+    "author": "",
     "version": "0.0.1",
+    "license": "",
+    "keywords": [
+        ""
+    ],
     "scripts": {
         "build": "",
-        "start": "",
+        "develop": "cd ./client && npm run develop",
+        "start": "npm run develop",
         "test": ""
     },
     "devDependencies": {
@@ -11,7 +19,12 @@
         "dotenv": "^6.2.0",
         "start-server-and-test": "^1.11.6"
     },
-    "dependencies": {
-
+    "dependencies": {},
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/md-akhi/Harmony-js"
+    },
+    "bugs": {
+        "url": "https://github.com/md-akhi/Harmony-js/issues"
     }
 }

@@ -1,5 +1,20 @@
 module.exports = {
-    plugins: [
+  siteMetadata: {
+    title: "",
+    author: "",
+    description: "",
+    social: [
+      {
+        name: "twitter",
+        url: "",
+      },
+      {
+        name: "github",
+        url: "",
+      },
+    ],
+  },
+  plugins: [
 
     ]
 }
