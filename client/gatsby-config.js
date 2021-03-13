@@ -3,7 +3,6 @@ module.exports = {
     title: "",
     author: "",
     description: "",
-    siteUrl: "",
     social: [
       {
         name: "twitter",

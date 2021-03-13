@@ -6,7 +6,7 @@
     "version": "0.0.1",
     "license": "",
     "keywords": [
-      ""
+        ""
     ],
     "scripts": {
         "build": "",
@@ -19,14 +19,12 @@
         "dotenv": "^6.2.0",
         "start-server-and-test": "^1.11.6"
     },
-    "dependencies": {
-
-    },
+    "dependencies": {},
     "repository": {
-      "type": "git",
-      "url": "https://github.com/md-akhi/Harmony-js"
+        "type": "git",
+        "url": "https://github.com/md-akhi/Harmony-js"
     },
     "bugs": {
-      "url": "https://github.com/md-akhi/Harmony-js/issues"
+        "url": "https://github.com/md-akhi/Harmony-js/issues"
     }
 }
