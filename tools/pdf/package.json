@@ -1,0 +1,10 @@
+{
+    "name": "Harmony-js/tools",
+    "private": true,
+    "description": "",
+    "scripts": {
+        "pdf": "",
+        "test": ""
+    },
+    "dependencies": {}
+}
