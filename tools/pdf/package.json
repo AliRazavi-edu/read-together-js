@@ -1,7 +1,7 @@
 {
-    "name": "Harmony-js/tools",
+    "name": "read-together/tools",
     "private": true,
-    "description": "",
+    "description": "tools",
     "scripts": {
         "pdf": "",
         "test": ""
