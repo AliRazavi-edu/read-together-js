@@ -1,12 +1,12 @@
 {
-    "name": "@Harmony-js/Harmony-js",
+    "name": "read-together",
     "private": true,
-    "description": "",
-    "author": "",
+    "description": "Reading experiences",
     "version": "0.0.1",
     "license": "",
     "keywords": [
-        ""
+        "Reading",
+        "read together"
     ],
     "scripts": {
         "build": "",
