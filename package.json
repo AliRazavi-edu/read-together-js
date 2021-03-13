@@ -1,8 +1,8 @@
 {
-    "name": "@name/name",
+    "name": "@Harmony-js/Harmony-js",
     "private": true,
     "description": "",
-    "author": "Mohammad Amanalikhani <md.akhi.ir@gmail.com>",
+    "author": "",
     "version": "0.0.1",
     "license": "",
     "keywords": [
@@ -10,7 +10,8 @@
     ],
     "scripts": {
         "build": "",
-        "start": "cd ./client && npm run develop",
+        "develop": "cd ./client && npm run develop",
+        "start": "npm run develop",
         "test": ""
     },
     "devDependencies": {
@@ -20,5 +21,12 @@
     },
     "dependencies": {
 
+    },
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/md-akhi/Harmony-js"
+    },
+    "bugs": {
+      "url": "https://github.com/md-akhi/Harmony-js/issues"
     }
 }
