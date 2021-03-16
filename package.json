@@ -19,7 +19,8 @@
         "dotenv": "^6.2.0",
         "start-server-and-test": "^1.11.6"
     },
-    "dependencies": {},
+    "dependencies": {
+    },
     "repository": {
         "type": "git",
         "url": "https://github.com/md-akhi/read-together-js"
