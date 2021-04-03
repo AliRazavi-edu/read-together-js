@@ -9,10 +9,12 @@
         ""
     ],
     "scripts": {
-        "build": "",
-        "develop": "cd ./client && npm run develop",
         "start": "npm run develop",
-        "test": ""
+        "develop": "cd ./client && npm run develop",
+        "build": "",
+        "test": "",
+        "pdf": "npm run ex-pdf",
+        "ex-pdf": "cd ./tools/WebViewer && npm run start"
     },
     "devDependencies": {
         "debug": "^4.3.1",

@@ -1,5 +1,8 @@
 help
-pdf.js/
-webviewer-ui/
+pdf/
 react-pdf/
 pdf-lib/
+webviewer-ui/
+WebViewer.zip
+PDFJsAnnotations/
+react-pdf-js/

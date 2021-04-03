@@ -5,16 +5,15 @@ module.exports = {
     description: "",
     social: [
       {
-        name: "twitter",
-        url: "",
-      },
-      {
         name: "github",
         url: "",
       },
     ],
   },
   plugins: [
-
+    {
+      resolve: `gatsby-plugin-create-client-paths`,
+      options: { prefixes: [`/pdfthron/*`] },
+    },
     ]
 }
